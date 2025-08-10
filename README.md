@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quan Phan</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on [Real Estate Marketplace](https://github.com/phmquan/RealEstateMarketplace)
-
-- 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/phmquan?tab=repositories](https://github.com/phmquan?tab=repositories)
 
